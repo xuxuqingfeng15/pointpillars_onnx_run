@@ -1,5 +1,5 @@
-.idea/
-__pycache__/
+.idea/*
+__pycache__/*
 *.py[c|o]
 venv/
 *.log
