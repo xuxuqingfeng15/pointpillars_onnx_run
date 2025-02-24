@@ -1,4 +1,3 @@
-# Copyright (c) OpenMMLab. All rights reserved.
 import time
 import onnxruntime
 import numpy as np
